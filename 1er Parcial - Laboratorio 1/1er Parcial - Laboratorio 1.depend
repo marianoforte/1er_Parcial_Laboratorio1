@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1602460603 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\breedstructure.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"breedStructure.h"
+
+1602549702 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\breedstructure.h
+
+1601947330 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mainMenu.h"
+
+1602549690 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\petstructure.h
+
+1602550069 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\structuresrelations.h
+
+1602549568 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\abm.h
+
+1602461719 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\petstructure.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"petStructure.h"
+	"breedStructure.h"
+
+1602540055 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\structuresrelations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"petStructure.h"
+	"breedStructure.h"
+	"structuresRelations.h"
+	"structureManagement.h"
+	"abm.h"
+
+1602550349 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"petStructure.h"
+	"breedStructure.h"
+	"structureManagement.h"
+	"abm.h"
+
+1601947604 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\mainmenu.h
+
+1602550341 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"breedStructure.h"
+	"petStructure.h"
+	"structuresRelations.h"
+	"structureManagement.h"
+	"abm.h"
+	"mainMenu.h"
+
+1602550318 source:c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\structuremanagement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"petStructure.h"
+	"breedStructure.h"
+	"structureManagement.h"
+
+1602550967 c:\users\maria\onedrive\documentos\utn fra\1er cuatrimestre\laboratorio 1 - programación 1\workspace_lab&prog_1\1er parcial - laboratorio 1\structuremanagement.h
+
